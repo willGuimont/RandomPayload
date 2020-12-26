@@ -1,4 +1,4 @@
-# RandomPayload
+# random_payload
 
 This is a small experiment to obfuscate a program. It uses the fact that a pseudo-random generator will always produce the same sequence when given a specific seed.
 
